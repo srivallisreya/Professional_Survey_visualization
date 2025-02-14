@@ -1,6 +1,5 @@
-# Professional_Survey_visualization
+# Professional_Survey_visualization Breakdown
 
-# Data Professional Survey Breakdown
 
 This repository contains a data visualization dashboard that presents insights from a survey conducted among data professionals. The project involved data cleaning, transformation, and visualization to extract meaningful insights.
 
@@ -42,7 +41,7 @@ This repository contains a data visualization dashboard that presents insights f
 
  🔧 Technologies Used
 
-**Power BI** for data visualization  
-**Excel (Power Query)** for data cleaning and transformation  
+##**Power BI** for data visualization  
+##**Excel (Power Query)** for data cleaning and transformation  
 
 
