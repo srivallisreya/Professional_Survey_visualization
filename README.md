@@ -39,9 +39,7 @@ This repository contains a data visualization dashboard that presents insights f
 
 ![Screenshot 2025-02-14 175025](https://github.com/user-attachments/assets/5349931d-c22a-4840-b973-57d7ac0e2d0d)
 
- 🔧 Technologies Used
+## 🔧 Technologies Used
 
-##**Power BI** for data visualization  
-##**Excel (Power Query)** for data cleaning and transformation  
-
-
+- **Power BI** for data visualization  
+- **Excel (Power Query)** for data cleaning and transformation
